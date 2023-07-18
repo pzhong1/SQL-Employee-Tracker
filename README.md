@@ -88,4 +88,7 @@ manager_id: INT to hold reference to another employee that is the manager of the
 
 
 
+![node server js sceenshot](https://github.com/pzhong1/SQL-Employee-Tracker/assets/123424361/5b0b7b47-57b4-476b-9cf6-9dd006d11c1c)
+
+
 
