@@ -82,3 +82,10 @@ manager_id: INT to hold reference to another employee that is the manager of the
 
 
 # screenShot
+
+![mysql ternimal sceentshot](https://github.com/pzhong1/SQL-Employee-Tracker/assets/123424361/81348400-27c0-47cc-b32d-d8744030086d)
+
+
+
+
+
