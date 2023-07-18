@@ -5,7 +5,7 @@ build a command-line application from scratch to manage a company's employee   d
 https://drive.google.com/file/d/1D84vXdBF4WsYxLSNw0CC3QU962B_jqED/view
 
 ## The URL of the GitHub repository,   
-
+https://github.com/pzhong1/SQL-Employee-Tracker.git
 
 
 # install package require for this project
